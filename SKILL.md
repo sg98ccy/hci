@@ -66,4 +66,4 @@ Example: **HCI applied:** Proximity - grouped paired controls; progressive discl
 
 For a design discussion without implementation, use **HCI recommended** and describe proposed choices. For a review, identify the concepts used to assess the interface without claiming changes were made. Report validation separately and truthfully; do not imply user testing took place when only code or an expert walkthrough was checked. If no meaningful HCI change was needed after explicit invocation, say so briefly rather than inventing one.
 
-Respect a user-requested exact output format or stricter brevity limit; fold this note into an existing summary when possible instead of adding an unwanted appendix.
+Respect a user-requested exact output format or stricter brevity limit. When several skills apply, combine their application notes with the normal outcome summary rather than adding separate checklists or appendices.
